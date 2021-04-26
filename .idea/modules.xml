@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/ContatosBootCampEveris.iml" filepath="$PROJECT_DIR$/.idea/modules/ContatosBootCampEveris.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ContatosBootCampEveris.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ContatosBootCampEveris.app.iml" />
     </modules>
   </component>
 </project>
